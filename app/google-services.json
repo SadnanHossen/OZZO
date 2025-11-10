@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82801283757",
+    "project_id": "ozzo-c1ce2",
+    "storage_bucket": "ozzo-c1ce2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82801283757:android:6749353b58fbd8bef3ec24",
+        "android_client_info": {
+          "package_name": "com.example.ozzo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvQlvqX_Dp4_BhNmqIsWm6CtZaOvIuffw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
